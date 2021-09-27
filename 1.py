@@ -72,3 +72,4 @@ print(dataBoi)
 
 
 #thank you for reading out
+#Wish you luck bro
