@@ -69,3 +69,6 @@ for i in range (len(partitionStrings)-1):
     dataBoi[partitionStrings[i]] = ward
     # print (ward)
 print(dataBoi)
+
+
+#thank you for reading out
